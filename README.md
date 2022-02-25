@@ -1,1 +1,1 @@
-# -Ayshwarya02-Covid19-Pneumonia-Prediction
+# Covid19-Pneumonia-Prediction
